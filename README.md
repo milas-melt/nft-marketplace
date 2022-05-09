@@ -1,15 +1,15 @@
 # My stuff
-npx create-next-app nft-marketplace 
+`npx create-next-app nft-marketplace` 
 
-yarn add ethers hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers web3modal @openzeppelin/contracts  ipfs-http-client@50.1.2  axios
+`yarn add ethers hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers web3modal @openzeppelin/contracts  ipfs-http-client@50.1.2  axios`
 
-( yarn add -D tailwindcss@latest postcss@latest autoprefixer@latest
+( `yarn add -D tailwindcss@latest postcss@latest autoprefixer@latest`
 
-npx tailwindcss init -p )
+`npx tailwindcss init -p` )
 
 Instead, follow instructions here to install tailwind —> https://tailwindcss.com/docs/guides/nextjs
 
-npx hardhat
+`npx hardhat`
 
 ## launch
 ### if relevant
